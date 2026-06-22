@@ -1,0 +1,6 @@
+.env
+config.yaml
+bin/
+coverage.out
+tmp/
+vendor/
